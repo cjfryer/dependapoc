@@ -1,0 +1,20 @@
+{
+  "name": "dependapoc",
+  "version": "1.0.0",
+  "description": "Just messing around with Dependabot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjfryer/dependapoc.git"
+  },
+  "author": "Chris Fryer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjfryer/dependapoc/issues"
+  },
+  "homepage": "https://github.com/cjfryer/dependapoc#readme"
+}
